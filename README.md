@@ -3,11 +3,11 @@ Target free responsive bootstrap admin template is a clean and minimal Bootstrap
 
 ![Free Bootstrap Admin Template](https://raw.githubusercontent.com/webthemez/Target-Free-Bootstrap-Admin-Template/master/assets/img/target-material-design-bootstrap-admin-template.png)
 
-Support: Please remember to STAR this project and FOLLOW my Github to keep you update with this template.
+Support: Please remember to STAR this project and FOLLOW my Github to keep you update with this latest Bootstrap & HTML templates.
 
 # Demo & Download
-A fully functional demo is available at <a title="Preview" href="https://webthemez.com/preview/?target-free-responsive-bootstrap-admin-template" target="_blank">Live Demo</a>
-You can visit our website to download this theme <a title="Preview" href="https://webthemez.com/target-free-responsive-bootstrap-admin-template/" target="_blank">Download Now</a>
+* A fully functional demo is available at <a title="Preview" href="https://webthemez.com/preview/?target-free-responsive-bootstrap-admin-template" target="_blank">Live Demo</a>
+* You can visit our website to download this theme <a title="Preview" href="https://webthemez.com/target-free-responsive-bootstrap-admin-template/" target="_blank">Download Now</a>
 
 # Copyright and license
 Copyright 2017 webthemez.com, <a href="https://webthemez.com/license">License</a>
